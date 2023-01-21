@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dr. Vitalii Shkoldin  
 - 👀 I’m interested in Python, DataScience, Science.
 - 🌱 I’m currently learning DataScience aproaches.
-- 💞️ I’m looking to collaborate on any dataanalise project.
+- 💞️ I’m looking to collaborate on any dataanalyse project.
 - 📫 How to reach me by telegramm: @binSmile
 - 📙 Additional information in [my resume](https://github.com/binSmile/binSmile/raw/main/Resume%20Dr%20Vitalii%20Shkoldin.pdf)
 
