@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python, Data Science, Science.
 - 🌱 I’m currently learning Data Science approaches.
 - 💞️ I’m looking to collaborate on any data analyze project.
-- 📫 How to reach me by telegram: @binSmile
+- 📫 You can reach me by telegram: @binSmile
 - 📙 Additional information in [my resume](https://github.com/binSmile/binSmile/raw/main/Resume%20Dr%20Vitalii%20Shkoldin.pdf)
 
 <!---
